@@ -1,0 +1,15 @@
+#outField {
+    border: none;
+}
+
+#outField:focus {
+    border: 0pt;
+    outline: none !important;
+}
+
+#inField {
+    border: none;
+}
+#inField {
+    outline: none;
+}
