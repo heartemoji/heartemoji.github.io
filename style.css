@@ -1,15 +1,7 @@
-#outField {
-    border: none;
+body {
+    background-color: #444444 !important;
+    color: #ffffff !important;
 }
-
-#outField:focus {
-    border: 0pt;
-    outline: none !important;
-}
-
-#inField {
-    border: none;
-}
-#inField {
-    outline: none;
+#heart {
+    font-size: 26pt;
 }
