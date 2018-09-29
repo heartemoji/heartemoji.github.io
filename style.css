@@ -1,7 +1,16 @@
 body {
-    background-color: #444444 !important;
-    color: #ffffff !important;
+    background-color: #444444;
+    color: #ffffff;
+    background: url(img/rose.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 #heart {
     font-size: 26pt;
 }
+#bio {
+    background-color: rgba(25,25,25,.6);
+}
+
