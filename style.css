@@ -8,7 +8,9 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
-
+p {
+    font-size: 11pt;
+}
 #heart {
     font-size: 26pt;
 }
